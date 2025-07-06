@@ -6,7 +6,6 @@ This project scrapes real-time GDP data from Wikipedia and visualizes the **Top 
 
 - `Wikipidea.ipynb`: Main notebook (scraping + plotting)
 - `gdp_data.csv`: Cleaned dataset of country-wise GDP
-- `gdp_chart.png`: Bar chart image (optional — generate using notebook)
 - `README.md`: This file
 
 ## 📊 Tools Used
